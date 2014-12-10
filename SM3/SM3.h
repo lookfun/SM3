@@ -1,1 +1,1 @@
-int SM3coding(char * in,char *out);
+int SM3(char * in,char *out,int len);
